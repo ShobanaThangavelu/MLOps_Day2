@@ -12,3 +12,4 @@ dependencies:
       - pandas==1.2.1
       - joblib==1.0.0
       - matplotlib==3.3.3
+      - azureml-inference-server-http==1.0.0
